@@ -109,6 +109,10 @@ button:hover {
 
 
 @media (max-width: 600px) {
+    .color-display {
+        margin: 0px;
+    }
+
     .color-box {
         height: 100px;
     }
